@@ -53,7 +53,7 @@ INFOTC_2600_Final-Project-Digital-Concept-Tutorial
 * You will be prompted to Name and save your Virtual Machine
 * Name your Virtual Machine whatever you like
 * Then click "Save"
-![Step 8 Menu Pic]()
+![Step 8 Menu Pic](INFOTC_2600_Final-Project-Digital-Concept-Tutorial/DigitalConceptTutorial_Pics/Step8Menu.png)
 
 #### Step 9:
 * VMware will run and Windows should start up
