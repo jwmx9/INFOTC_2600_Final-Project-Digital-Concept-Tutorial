@@ -27,33 +27,33 @@ INFOTC_2600_Final-Project-Digital-Concept-Tutorial
 #### Step 3: 
 * Open the VMware fusion software
 * A menu should appear that looks like the image below
-![Step 3 Menu Pic](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Step 3 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step3Menu.png)
 
 #### Step 4:
 * At this point, drag your downloaded Windows file into the box that says "Install from disc or image"
 * The menu should switch to the image below
-![Step 4 Menu Pic]()
+![Step 4 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step4Menu.png)
 
 #### Step 5:
 * Find the identical version of Windows that you previously downloaded and select it (in this case I chose Windows 10)
 * Then click "Continue"
-![Step 5 Menu Pic]()
+![Step 5 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step5Menu.png)
 
 #### Step 6:
 * Select the firmware type, either one will work
 * Then click "Continue"
-![Step 6 Menu Pic]()
+![Step 6 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step6Menu.png)
 
 #### Step 7:
 * A window will appear that shows you the Virtual Machine Summary
 * Click "Finish"
-![Step 7 Menu Pic]()
+![Step 7 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step7Menu.png)
 
 #### Step 8:
 * You will be prompted to Name and save your Virtual Machine
 * Name your Virtual Machine whatever you like
 * Then click "Save"
-![Step 8 Menu Pic]()
+![Step 8 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step8Menu.png)
 ![alt text](http://url/to/img.png)
 
 #### Step 9:
@@ -62,4 +62,4 @@ INFOTC_2600_Final-Project-Digital-Concept-Tutorial
 
 #### Step 10: 
 * Enjoy using Windows on your Mac!
-![Step 10 Menu Pic]()
+![Step 10 Menu Pic](https://github.com/jwmx9/INFOTC_2600_Final-Project-Digital-Concept-Tutorial/blob/master/DigitalConceptTutorial_Pics/Step10Menu.png)
